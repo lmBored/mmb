@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Main function
 int main()
 {
     int r = 0, spacecnt = 0, quote = 0;
